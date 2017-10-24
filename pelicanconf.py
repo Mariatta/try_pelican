@@ -34,6 +34,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/mariatta'),
           ('IMDb', 'http://www.imdb.com/name/nm7641957/'),
           ('LinkedIn', 'https://linkedin.com/in/mariatta'),
           ('Paypal.me', 'https://www.paypal.me/mariatta'),
+          ('Instagram', 'https://www.instagram.com/mariatta81/'),
           )
 
 DEFAULT_PAGINATION = 10
